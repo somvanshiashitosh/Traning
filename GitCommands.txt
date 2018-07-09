@@ -1,0 +1,23 @@
+git intit :- to create a local repository
+
+git remote add origin "link of central repository" :-to point your remote repository
+
+git pull origin master  :- to pull files from central repository
+
+git status  :- tells you which files are added in index and are ready to commit
+
+git add filename :- to add file into index to commit(To Staging area)
+
+git add -A  :- to add multiple files into index(To Staging area)
+
+git reset filename :- To remove from staging area.
+
+git reset :- To remove all files from staging area.
+
+git commit -m "message"
+
+git commit -a -m "message"
+
+git branch branchname  :- to create a new branch
+
+git checkout branchname  :- to switch to mentioned origin branch

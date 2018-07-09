@@ -1,0 +1,21 @@
+jmeter, soapUi,- testing
+
+start installation manager
+
+prefrences:-check passport advantages
+
+HTTP proxy configurations:- in mail
+
+
+service provider link(IDC team releases all projects here):-http://fpl.diebold.com/fpcdwriter/ 
+
+jvm debug port no:-7777
+
+
+
+sabbcore-distribution-warpackage-adapterwar-restadapater-target-select war file-select next
+
+
+switch core
+xmlhost 
+transaction
